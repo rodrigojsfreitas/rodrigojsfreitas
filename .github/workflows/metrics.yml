@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          template: repository
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
@@ -26,6 +27,5 @@ jobs:
 
           # Options
           user: rodrigojsfreitas
-          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
