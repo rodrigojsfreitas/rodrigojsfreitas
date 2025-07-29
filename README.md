@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## 📊 Minhas Estatísticas no GitHub
 
-![Minhas Métricas do GitHub](./metrics.svg)
+![Minhas Métricas do GitHub](./github-metrics.svg)
