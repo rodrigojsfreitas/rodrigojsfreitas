@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi meu nome é Rodrigo 👋🏾, sou um desenvolvedor Full-Stack
 
 <!--
 **rodrigojsfreitas/rodrigojsfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
