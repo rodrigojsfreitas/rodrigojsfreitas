@@ -23,15 +23,13 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRIC_TOKEN }}
 
           # Options
           user: rodrigojsfreitas
-          template: repository
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
