@@ -1,0 +1,52 @@
+# .github/workflows/metrics.yml
+
+name: Metrics
+on:
+  # Executa o workflow a cada hora
+  schedule:
+    - cron: '0 * * * *'
+  # Permite que o workflow seja executado manualmente a partir da aba Actions
+  workflow_dispatch:
+  # Executa também ao fazer push para o branch `master` ou `main`
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão necessária para fazer commit dos arquivos gerados
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu nome de usuário do GitHub
+          user: rodrigojsfreitas
+
+          # Nome do arquivo de saída
+          filename: metrics.svg
+
+          # Token de autenticação do GitHub
+          # NÃO MUDE ISSO, o GitHub Actions substitui automaticamente
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Opções de configuração e plugins
+          # Sinta-se à vontade para adicionar, remover ou alterar os plugins abaixo
+          config_timezone: America/Sao_Paulo # Fuso horário para exibir as horas corretamente
+          
+          # Plugins a serem ativados
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # Exibe conquistas a partir do nível C (Comum)
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Mostra o calendário de contribuições do último semestre
+
+          plugin_languages: yes
+          plugin_languages_limit: 8 # Limita a 8 linguagens de programação
+          plugin_languages_threshold: 0% # Exibe linguagens mesmo com uso baixo
+          
+          plugin_lines: yes # Mostra o total de linhas de código adicionadas e removidas
+          
+          plugin_people: yes
+          plugin_people_types: followers, following # Exibe seguidores e pessoas que você segue
