@@ -26,7 +26,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="./pc-animated.gif" width="400"/>
+  <img src="./pc-animated.gif" width="500"/>
 </div>
   <img src="./github-metrics.svg" alt="Minhas Métricas do GitHub" height="600"/>
 </div>
