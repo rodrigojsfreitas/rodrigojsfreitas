@@ -24,10 +24,13 @@
 </div>
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="./github-metrics.svg" alt="Minhas Métricas do GitHub" height="600"/>
+<div align="center">
+<div align="center">
   <img src="./pc-animated.gif" width="400"/>
 </div>
+  <img src="./github-metrics.svg" alt="Minhas Métricas do GitHub" height="600"/>
+</div>
+
 <h2 align="center">🌟 Meus Projetos Favoritos 🌟</h2>
 
 <div align="center">
