@@ -42,8 +42,7 @@
 <img src="./animações/2.gif" width="400" height="350" style="margin-bottom: -10px;">
 </a>
   <a href="https://github.com/rodrigojsfreitas/Hora-de-Codar--1--ao-7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigojsfreitas&repo=Hora-de-Codar--1--ao-7
-&theme=tokyonight" alt="Hora-de-Codar--1--ao-7
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigojsfreitas&repo=Hora-de-Codar--1--ao-7&theme=tokyonight" alt="Hora-de-Codar--1--ao-7
 "/>
   </a>
   <a href="https://github.com/rodrigojsfreitas/tamascii">
