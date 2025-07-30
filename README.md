@@ -24,9 +24,9 @@
 </div>
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="./github-metrics.svg" alt="Minhas Métricas do GitHub" height="600"/>
-  <img src="./pc-animated.gif" width="400"/>
+  <img src="./pc-animated.gif" width="590"/>
 </div>
 <h2 align="center">🌟 Meus Projetos Favoritos 🌟</h2>
 
