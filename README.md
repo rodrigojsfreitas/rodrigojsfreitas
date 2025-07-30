@@ -60,7 +60,7 @@
   </div>
 
 <h2 align="center">📱 Sobre mim 💻</h2>
-<p style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px;">
+<p align="center" style="font-size: 16px;">
   Sou um jovem estudante de Análise e desenvolvimento de Sistema na Estácio. Sempre tive muito interesse em tecnologia, mas apenas como hobby, porém tudo mudou quando aprendi minha primeira linguagem de programação (python) que me deu uma nova perpectiva sobre como a tecnologia pode solucionar problemas de diferentes maneiras.
 </p>
 
