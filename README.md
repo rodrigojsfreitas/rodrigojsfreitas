@@ -52,7 +52,7 @@
 <img src="./animações/4.gif" width="400" height="350" style="margin-bottom: -10px;">
 
   <a href="https://github.com/rodrigojsfreitas/hospital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigojsfreitas&repo=hospital&theme=tokyonight" alt="hospital"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigojsfreitas&repo=Hospital&theme=tokyonight" alt="hospital"/>
   </a>
   <a href="https://github.com/rodrigojsfreitas/mestre-do-acaso">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigojsfreitas&repo=mestre-do-acaso&theme=tokyonight" alt="Mestre do acaso"/>
