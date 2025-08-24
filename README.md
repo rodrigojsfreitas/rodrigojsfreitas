@@ -30,10 +30,9 @@
     <img src="https://img.shields.io/badge/Ver%20meu%20Mapa%20de%20Carreira-00cb93?style=for-the-badge&logo=github&logoColor=white" alt="Mapa de Carreira"/>
   </a>
 </div>
-<br>
 
 </div>
-
+<h2></h2>
 
 <div align="center">
 <div align="center">
