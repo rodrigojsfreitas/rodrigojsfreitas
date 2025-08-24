@@ -6,7 +6,7 @@
   <a href="https://github.com/Akshay090/svg-banners">
 <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Seja%20bem-vindo%20😃%0AMeu%20nome%20é%20Rodrigo%20Jesus👨🏾‍💻&text2=Ao%20meu%20perfil%20GitHub&width=800&height=400" alt="Hacker Typer Banner" width="100%"/>
   </a>
-  <br> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&color=00FF00&center=true&vCenter=true&width=535&lines=$+Carregando+HTML+[%23%23%23%23%23]100%25;$+Carregando+JavaScript+[%23%23%23%23%23]100%25;$+Carregando+KOTLIN+[%23%23%23%23%23]100%25;$+Carregando+MongoDB+[%23%23%23%23%23]100%25;$+Sempre+aprendendo..." alt="Terminal Typing SVG" width="100%" />
+  <br> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&color=00FF00&center=true&vCenter=true&width=535&lines=$+Carregando+HTML+[%23%23%23%23%23]100%25;$+Carregando+JavaScript+[%23%23%23%23%23]100%25;$+Carregando+Kotlin+[%23%23%23%23%23]100%25;$+Carregando+MongoDB+[%23%23%23%23%23]100%25;$+Sempre+aprendendo..." alt="Terminal Typing SVG" width="100%" />
 
 <h2 align="center">📱 Sobre mim 💻</h2>
 <p align="center" style="font-size: 16px;">
